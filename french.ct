@@ -88,13 +88,13 @@ mauvais fichier DAA (fichier multiple DAA)
 ;
 MSG_EXPATERR
 erreur de l'expat.library
-; erreur de l'expat.library
+; expat.library error
 ;
 MSG_BZLIBERR
 erreur de la bz2.library
-; erreur de la bz2.library
+; bz2.library error
 ;
 MSG_UNKNENCRMETHOD
 méthode de cryptage inconnue
-; méthode de cryptage inconnue
+; unsupported encryption method
 ;
